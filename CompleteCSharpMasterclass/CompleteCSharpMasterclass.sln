@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C01_Basics", "C01_Basics\C0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02_DataTypesAndVariables", "C02_DataTypesAndVariables\C02_DataTypesAndVariables.csproj", "{C7E009CE-2BBC-41AA-BAC7-5BC27A7E5EC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_Methods", "C03_Methods\C03_Methods.csproj", "{2FDA50AE-1E04-46DD-B426-B94862D6B13D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C7E009CE-2BBC-41AA-BAC7-5BC27A7E5EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E009CE-2BBC-41AA-BAC7-5BC27A7E5EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E009CE-2BBC-41AA-BAC7-5BC27A7E5EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDA50AE-1E04-46DD-B426-B94862D6B13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDA50AE-1E04-46DD-B426-B94862D6B13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDA50AE-1E04-46DD-B426-B94862D6B13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDA50AE-1E04-46DD-B426-B94862D6B13D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -27,3 +27,10 @@ namespace C02_DataTypesAndVariables
         }
     }
 }
+
+/*
+NOTE:
+- Integral numeric types and their ranges: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types
+- Floating-point numeric types and their ranges: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types
+- Built-in numeric conversions: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/numeric-conversions
+*/
